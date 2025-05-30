@@ -1,8 +1,7 @@
+<?php
 //Verifica se o número é primo ou não.
 //Números primos são divisíveis apenas por 1 e por eles mesmos.
 //ou seja, eles não podem ser divisível por qualquer número abaixo dele, que seja diferente de um.
-
-<?php
 
 $n = 4;
 
