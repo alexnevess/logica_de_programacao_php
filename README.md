@@ -7,6 +7,7 @@ Repositório com exercícios e desafios de **lógica de programação** resolvid
 - [X] Verificação de número primos de 1 a 100
 - [X] Palíndromo Numérico
 - [X] Verificação de Número perfeito
+- [X] Sequência de Collatz
 
 > Cada desafio está organizado em uma pasta separada, onde você encontrará o código-fonte correspondente.
 
