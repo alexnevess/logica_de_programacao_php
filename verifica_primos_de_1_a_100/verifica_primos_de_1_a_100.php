@@ -1,5 +1,5 @@
 <?php
-//Verifica os números primos de 2 a 100.
+//Verifica os números primos de 2 a 100
 
 function testa_numero($numero)
 {
