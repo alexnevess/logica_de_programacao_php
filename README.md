@@ -8,7 +8,7 @@ Repositório com exercícios e desafios de **lógica de programação** resolvid
 - [X] Palíndromo Numérico
 - [X] Verificação de Número perfeito
 - [X] Sequência de Collatz
-- [X] Soma números pares de um arra
+- [X] Soma números pares de um array
 
 > Cada desafio está organizado em uma pasta separada, onde você encontrará o código-fonte correspondente.
 
