@@ -10,6 +10,7 @@ Repositório com exercícios e desafios de **lógica de programação** resolvid
 - [X] Sequência de Collatz
 - [X] Soma números pares de um array
 - [X] Exclui valores repetidos de um array
+- [X] Contador de números com array
 
 > Cada desafio está organizado em uma pasta separada, onde você encontrará o código-fonte correspondente.
 
