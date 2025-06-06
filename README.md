@@ -14,6 +14,7 @@ Repositório com exercícios e desafios de **lógica de programação** resolvid
 - [X] Catálogo de produtos e aumento de preço com array
 - [X] Aprova alunos de acorco com a nota utilizando array associativo 
 - [X] Boletim de alunos utilizando array multidimensional
+- [X] Manipulação de estoque de produtos utilizando array multidimensional
 
 > Cada desafio está organizado em uma pasta separada, onde você encontrará o código-fonte correspondente.
 
