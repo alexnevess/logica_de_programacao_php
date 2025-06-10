@@ -17,6 +17,7 @@ Repositório com exercícios e desafios de **lógica de programação** resolvid
 - [X] Manipulação de estoque de produtos utilizando array multidimensional
 - [X] Jogo de acertar o número de 1 a 100 em 7 tentativas
 - [X] Calculadora simples utilizando switch case
+- [X] Conversão de unidades utilizando switch case
 
 > Cada desafio está organizado em uma pasta separada, onde você encontrará o código-fonte correspondente.
 
